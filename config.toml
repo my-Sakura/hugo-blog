@@ -35,7 +35,7 @@ hasCJKLanguage = true
   author = "sakura"  
   description = "sakura 的生活记录～"
   avatar = "/me/qq.png"
-  motto = "与其感慨路难行，不如马上出发。"
+  motto = "不管做什么都不要为自己找借口。"
   categoriesLimitInHeader = 6
   # headerBottomText = ""
 
